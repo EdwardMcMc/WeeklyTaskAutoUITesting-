@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.539
+VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyTaskAutoUITestingWPFApp", "WeeklyTaskAutoUITestingWPFApp\WeeklyTaskAutoUITestingWPFApp.csproj", "{B4D9107D-96D9-4469-BCF6-B970FC9413EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyTaskAutoUITestingCodedUITestProject", "WeeklyTaskAutoUITestingCodedUITestProject\WeeklyTaskAutoUITestingCodedUITestProject.csproj", "{650CBB33-599E-408A-9D5F-B767935F561E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyTaskAutoUITestingCodedUITestProject", "WeeklyTaskAutoUITestingCodedUITestProject\WeeklyTaskAutoUITestingCodedUITestProject.csproj", "{8A03FB28-2A8B-443F-B93B-A38B1C1C2C03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{B4D9107D-96D9-4469-BCF6-B970FC9413EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4D9107D-96D9-4469-BCF6-B970FC9413EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4D9107D-96D9-4469-BCF6-B970FC9413EB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{650CBB33-599E-408A-9D5F-B767935F561E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{650CBB33-599E-408A-9D5F-B767935F561E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{650CBB33-599E-408A-9D5F-B767935F561E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{650CBB33-599E-408A-9D5F-B767935F561E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A03FB28-2A8B-443F-B93B-A38B1C1C2C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A03FB28-2A8B-443F-B93B-A38B1C1C2C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A03FB28-2A8B-443F-B93B-A38B1C1C2C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A03FB28-2A8B-443F-B93B-A38B1C1C2C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
